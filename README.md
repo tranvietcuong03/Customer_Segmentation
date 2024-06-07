@@ -31,7 +31,7 @@ Dataset: [Download here](https://github.com/tranvietcuong03/Customer_Segmentatio
   There are similar to numpy, scikit-learn, matplotlib and seaborn to install
   
 ## Model
-I used **KMean** and **PCA** to cluster the customer segmentation
+I used **KMean** and **PCA** to cluster the customer
 
 ## Evaluation
 * After traning model by Kmean I have a visualization of clusters
